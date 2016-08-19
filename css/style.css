@@ -1,1 +1,9 @@
-!important
+.col-md-6{
+  height:100px;
+  color:#000;
+  background-color: red;
+  text-align: center;
+}
+.jumbotron{
+  text-align: center;
+}
